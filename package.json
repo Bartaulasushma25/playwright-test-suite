@@ -1,0 +1,12 @@
+{
+  "name": "playwright-test-suite",
+  "version": "1.0.0",
+  "description": "Data-driven Playwright test suite",
+  "main": "index.js",
+  "dependencies": {
+    "@playwright/test": "^1.39.0"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  }
+}
